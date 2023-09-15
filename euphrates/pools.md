@@ -13,7 +13,7 @@ In Euphrates, DOT holders can stake DOT into the tDOT pool where DOT will be min
 
 ### LDOT Pool
 
-LDOT is Acala Liquid Staking DOT powered by [Homa protocol](https://docs.homastaking.app/). LDOT is non-custodial liquid staking token, where users stake DOT and receive LDOT token that represents the principle staked asset plus the staking yield continuously accruing. LDOT provides a fast redeem function for users to receive DOT/KSM liquidity faster than the normal unbounding period upon unstaking. Read more [here](https://docs.homastaking.app/).
+LDOT is Acala Liquid Staking DOT, non-custodial liquid staking token, where users stake DOT and receive LDOT token that represents the principle staked asset plus the staking yield continuously accruing. LDOT provides a fast redeem function for users to receive DOT/KSM liquidity faster than the normal unbounding period upon unstaking. Read more [here](https://docs.homastaking.app/).
 
 In Euphrates, LCDOT holder can stake into the LDOT pool where
 
