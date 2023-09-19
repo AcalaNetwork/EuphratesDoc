@@ -1,6 +1,6 @@
 # Stake LCDOT
 
-1. Make sure you are on the Euphrates official site: https://farm.acala.network with LCDOT selected
+1. Make sure you are on the Euphrates official site with LCDOT selected
 
 <figure><img src="../../.gitbook/assets/Revised.png" alt=""><figcaption></figcaption></figure>
 
