@@ -22,6 +22,8 @@ Read more [here](https://wiki.polkadot.network/docs/learn-crowdloans#withdraw-cr
 
 Keep Polkadot as the `Origin Chain` and select Acala as the `Destination Chain`. Enter the amount of DOT you’d like to send. Click `Transfer`.
 
+For Ledger users, please check compatibility [here](https://github.com/Zondax/ledger-acala) before sending funds to a Ledger account
+
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2.2 Return to the Portfolio tab to see your transferred DOT balance.
