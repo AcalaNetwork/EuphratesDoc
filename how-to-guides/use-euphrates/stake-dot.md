@@ -1,9 +1,5 @@
 # Stake DOT
 
-
-
-Coming soon
-
 1. Select “DOT” near the top of the homepage or make sure you are on the official Euphrates DOT staking page: https://farm.acala.network/dot
 
 <figure><img src="../../.gitbook/assets/DOT Page updated.png" alt=""><figcaption></figcaption></figure>
