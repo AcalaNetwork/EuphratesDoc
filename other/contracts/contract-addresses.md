@@ -12,6 +12,5 @@ description: ContractAddresses
 | implemention V1 | 0xBe44E43fE3817629d0cfA8CC0b73101d0F0FDE56 | https://blockscout.acala.network/address/0xBe44E43fE3817629d0cfA8CC0b73101d0F0FDE56/contracts#address-tabs |
 
 + [code repo](https://github.com/AcalaNetwork/Euphrates)
-+ [audit report](https://github.com/AcalaNetwork/Euphrates/tree/master/audit)
 
 
