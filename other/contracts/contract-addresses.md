@@ -1,7 +1,3 @@
----
-description: ContractAddresses
----
-
 # Contract Addresses
 
 | Contract | Address | Code Verify |
