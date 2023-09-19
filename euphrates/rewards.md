@@ -9,13 +9,13 @@ Euphrates rewards are made of incentive rewards in ACA and participating project
 
 There are two staking pools for LCDOT holders: LDOT and tDOT Pools
 
-**Before unlock (aka before Acala lease ends)**
+**Before unlock (aka before Acala crowdloan unlocks)**
 
 LDOT Pool APR = ACA incentive APR
 
 tDOT Pool APR = ACA incentive APR + TAI incentive APR
 
-**After unlock (aka Acala lease ends)**
+**After unlock (aka Acala crowdloan unlocks)**
 
 LDOT Pool APR = ACA incentive APR + LDOT APR
 

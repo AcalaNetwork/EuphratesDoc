@@ -5,7 +5,7 @@
 #### Convert rate
 
 ```
-<https://euphrates.vercel.app/api/convert_rate>
+<https://farm.acala.network/api/convert_rate>
 ```
 
 #### tDOT apr
@@ -17,7 +17,7 @@
 #### Pool apr graph
 
 ```
-<https://euphrates.vercel.app/api/apr/{poolId}>
+<https://farm.acala.network/api/apr/{poolId}>
 ```
 
 **Parameters**

@@ -6,8 +6,8 @@ tDOT is powered by the Taiga protocol. It is a better way to hold DOT. It has th
 
 In Euphrates, LCDOT holders can stake LCDOT into the tDOT pool where
 
-* Before Acala lease expires, LCDOT is staked into the pool, while users will receive rewards immediately
-* Upon lease expires, LCDOT will be claimed into DOT automatically and then used to mint tDOT to start earning DOT staking yield, protocol fees, and additional rewards in ACA and TAI.
+* Before Acala crowdloan unlock, LCDOT is staked into the pool, while users will receive rewards immediately
+* Upon crowdloan unlock, LCDOT will be claimed into DOT automatically and then used to mint tDOT to start earning DOT staking yield, protocol fees, and additional rewards in ACA and TAI.
 
 In Euphrates, DOT holders can stake DOT into the tDOT pool where DOT will be minted into tDOT to earn staking yield, protocol fees, and additional rewards in ACA and TAI.
 
@@ -17,7 +17,7 @@ LDOT is Acala Liquid Staking DOT, non-custodial liquid staking token, where user
 
 In Euphrates, LCDOT holder can stake into the LDOT pool where
 
-* Before Acala lease expires, LCDOT is staked into the pool, while users will receive rewards immediately
-* Upon lease expires, LCDOT will be claimed into DOT automatically and then converted to LDOT to start earning DOT staking yield and additional rewards in ACA, so that users will not miss one day of staking rewards
+* Before Acala crowdloan unlocks, LCDOT is staked into the pool, while users will receive rewards immediately
+* Upon crowdloan unlock, LCDOT will be claimed into DOT automatically and then converted to LDOT to start earning DOT staking yield and additional rewards in ACA, so that users will not miss one day of staking rewards
 
 In Euphrates, DOT holders can stake DOT into the LDOT pool where DOT will be staked and receive LDOT to earn staking yield and additional rewards in ACA.
