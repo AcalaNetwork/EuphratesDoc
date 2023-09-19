@@ -15,9 +15,10 @@
 * [Use Euphrates](how-to-guides/use-euphrates/README.md)
   * [Stake LCDOT](how-to-guides/use-euphrates/stake-lcdot.md)
   * [Stake DOT](how-to-guides/use-euphrates/stake-dot.md)
+  * [Withdraw DOT & Stake](how-to-guides/use-euphrates/withdraw-dot.md)
+  * [Claim Rewards](how-to-guides/use-euphrates/claim-rewards.md)
+  * [Unstake](how-to-guides/use-euphrates/unstake.md)
   * [Withdraw LCDOT](how-to-guides/use-euphrates/withdraw-lcdot.md)
-  * [Withdraw DOT](how-to-guides/use-euphrates/withdraw-dot.md)
-* [Claim Rewards](how-to-guides/claim-rewards.md)
 * [Integration](how-to-guides/integration.md)
 
 ## Other
