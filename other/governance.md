@@ -1,8 +1,8 @@
 # Governance
 
-The owner of `ProxyAdmin` contract controls `TransparentUpgradeableProxy` upgrade. The owner of `TransparentUpgradeableProxy` has the authority to configure the parameters of Euphrates and pause/unpuase the whole `TransparentUpgradeableProxy` contract. In erally stage, both owners are Acala Foundation multisig. Generally, Acala foundation will not manage Euphrates directly through multisig, unless the contract needs to be paused in an emergency. Euphrates smart contract integrates with Acala/Substrate on-chain governance, where multisig rights will be migrated to be under the jurisdiction of on-chain governance.
+The owner of `ProxyAdmin` contract controls `TransparentUpgradeableProxy` upgrade. The owner of `TransparentUpgradeableProxy` has the authority to configure the parameters of Euphrates and pause/unpuase the whole `TransparentUpgradeableProxy` contract.&#x20;
 
-
+Euphrates smart contract is integrated with Acala on-chain governance, where management of Euphrates such as initializing pools, and adjusting incentive rewards are under the jurisdiction of on-chain governance. With caution and prudence of this new innovation (governance of smart contract via Acala/Substrate on-chain governance), there is a multi-sig setup managed by the Acala Foundation, to pause the contracts in case of emergency. This may also be replaced by on-chain governance as we progress.
 
 ## Governance Methods
 
@@ -16,8 +16,8 @@ Initialize a staking pool for `shareType`.
 
 #### Parameters
 
-| Name | Type | Description |
-|---|---|---|
+| Name      | Type            | Description      |
+| --------- | --------------- | ---------------- |
 | shareType | contract IERC20 | The share token. |
 
 ### claimRewards
@@ -30,10 +30,9 @@ Claim all rewards from staking pool.
 
 #### Parameters
 
-| Name | Type | Description |
-|---|---|---|
+| Name   | Type    | Description                |
+| ------ | ------- | -------------------------- |
 | poolId | uint256 | The index of staking pool. |
-
 
 ### convertLSTPool
 
@@ -45,10 +44,10 @@ convert the share token of ‘poolId’ pool to LST token by `convertType`.
 
 #### Parameters
 
-| Name | Type | Description |
-|---|---|---|
-| poolId | uint256 | The index of staking pool. |
-| convertType | enum UpgradeableStakingLST.ConvertType | The convert type. |
+| Name        | Type                                   | Description                |
+| ----------- | -------------------------------------- | -------------------------- |
+| poolId      | uint256                                | The index of staking pool. |
+| convertType | enum UpgradeableStakingLST.ConvertType | The convert type.          |
 
 ### pause
 
@@ -68,11 +67,11 @@ Set the `paused` status of `operation` for `poolId` pool.
 
 #### Parameters
 
-| Name | Type | Description |
-|---|---|---|
-| poolId | uint256 | The index of staking pool. |
-| operation | enum PoolOperationPausable.Operation | The user operation. |
-| paused | bool | The pause status. |
+| Name      | Type                                 | Description                |
+| --------- | ------------------------------------ | -------------------------- |
+| poolId    | uint256                              | The index of staking pool. |
+| operation | enum PoolOperationPausable.Operation | The user operation.        |
+| paused    | bool                                 | The pause status.          |
 
 ### setRewardsDeductionRate
 
@@ -84,10 +83,10 @@ Set deduction `rate` of claim rewards for `poolId` pool.
 
 #### Parameters
 
-| Name | Type | Description |
-|---|---|---|
-| poolId | uint256 | The index of staking pool. |
-| rate | uint256 | The deduction rate. 1e18 is 100% |
+| Name   | Type    | Description                      |
+| ------ | ------- | -------------------------------- |
+| poolId | uint256 | The index of staking pool.       |
+| rate   | uint256 | The deduction rate. 1e18 is 100% |
 
 ### transferOwnership
 
@@ -95,15 +94,13 @@ Set deduction `rate` of claim rewards for `poolId` pool.
 function transferOwnership(address newOwner) external nonpayable
 ```
 
-
-
-*Transfers ownership of the contract to a new account (`newOwner`). Can only be called by the current owner.*
+_Transfers ownership of the contract to a new account (`newOwner`). Can only be called by the current owner._
 
 #### Parameters
 
-| Name | Type | Description |
-|---|---|---|
-| newOwner | address | undefined |
+| Name     | Type    | Description |
+| -------- | ------- | ----------- |
+| newOwner | address | undefined   |
 
 ### unpause
 
@@ -113,7 +110,7 @@ function unpause() external nonpayable
 
 Unpuase the contract by Pausable.
 
-*Define the `onlyOwner` access.*
+_Define the `onlyOwner` access._
 
 ### updateRewardRule
 
@@ -123,13 +120,13 @@ function updateRewardRule(uint256 poolId, contract IERC20 rewardType, uint256 re
 
 Update the reward rule of `rewardType` for `poolId` pool.
 
-*Override the inherited function to define `onlyOwner` and `whenNotPaused` access.*
+_Override the inherited function to define `onlyOwner` and `whenNotPaused` access._
 
 #### Parameters
 
-| Name | Type | Description |
-|---|---|---|
-| poolId | uint256 | The index of staking pool. |
-| rewardType | contract IERC20 | The reward token. |
-| rewardRate | uint256 | The reward amount per second. |
-| endTime | uint256 | The end time of fule. |
+| Name       | Type            | Description                   |
+| ---------- | --------------- | ----------------------------- |
+| poolId     | uint256         | The index of staking pool.    |
+| rewardType | contract IERC20 | The reward token.             |
+| rewardRate | uint256         | The reward amount per second. |
+| endTime    | uint256         | The end time of fule.         |
