@@ -75,7 +75,7 @@ LDOT is a staking yield-bearing token. It represents the principle staked DOT pl
 
 ### How can I unstake?
 
-Navigate to the pool that you have staked, then navigate to the 'Current Stake' section. Click on the 'Unstake' button to unstake your assets. For LCDOT, you can unstake the LSTs that LCDOT converts into after the unlock (parachain lease expires). Read more here.
+Navigate to the pool that you have staked, then navigate to the 'Current Stake' section. Click on the 'Unstake' button to unstake your assets. For LCDOT, you can unstake the LSTs that LCDOT converts into after the unlock (parachain lease expires). Read more [here](../how-to-guides/use-euphrates/unstake.md).
 
 ### How can I withdraw DOT with my LCDOT?
 
