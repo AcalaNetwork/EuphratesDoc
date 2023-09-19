@@ -16,6 +16,7 @@
   * [Stake LCDOT](how-to-guides/use-euphrates/stake-lcdot.md)
   * [Stake DOT](how-to-guides/use-euphrates/stake-dot.md)
   * [Withdraw LCDOT](how-to-guides/use-euphrates/withdraw-lcdot.md)
+  * [Withdraw DOT](how-to-guides/use-euphrates/withdraw-dot.md)
 * [Claim Rewards](how-to-guides/claim-rewards.md)
 * [Integration](how-to-guides/integration.md)
 
