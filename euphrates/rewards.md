@@ -36,8 +36,9 @@ Each pool can set up an incentive program to
 * run for a specific period of time
 * with a certain amount of reward tokens to be distributed every x blocks
 * stakers will receive rewards pro-rata to their share of the pool
+* APR will vary depending on reward rate and the amount of staked assets
 * the incentive program can include ACA and other participating project tokens
-* with loyalty bonus
+* loyalty bonus is applied
 
 ### Loyalty Bonus
 
