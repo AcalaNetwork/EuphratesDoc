@@ -2,8 +2,8 @@
 
 ### Pre-requisite
 
-1. Ethereum wallet e.g. Metamask and Wallet Connect with an account not bound to any Polkadot/Substrate account
-2. Substrate Wallets e.g. Polkadot{js}, Talisman, Subwallet with an account not bound to any Ethereum account
+1. Ethereum wallet e.g. [Metamask](https://metamask.io/) with an account not bound to any Polkadot/Substrate account
+2. Substrate Wallets e.g. [Polkadot{js}](https://polkadot.js.org/extension/), [Talisman](https://www.talisman.xyz/), [Subwallet](https://www.subwallet.app/) with an account not bound to any Ethereum account
 3. ACA in your Substrate Wallet to pay for transaction fees
 
 You can learn how to create a Substrate wallet by following any of these [guides](https://wiki.acala.network/get-started/acala-network/acala-account). You can learn how to send ACA to your Acala wallet by following this [guide.](https://wiki.acala.network/integrate/integration/token-transfer)
