@@ -2,7 +2,7 @@
 description: WithdrawDOT
 ---
 
-# Withdraw DOT
+# Withdraw DOT & Stake
 
 You can withdraw DOTs contributed to crowdloans that are expired, and stake them via Euphrates to earn DOT staking yield and boosted rewards. Below is a guide for withdraw and stake DOT.
 
@@ -33,3 +33,7 @@ For Ledger users, please check compatibility [here](https://github.com/Zondax/le
 ### 3. **Stake DOT to LDOT or tDOT pool**
 
 You can stake DOT to earn DOT staking yield and boosted rewards in ACA and participating project tokens e.g. TAI. Following [this guide](https://farmdoc.acala.network/how-to-guides/use-euphrates/stake-dot) for staking DOT.
+
+
+
+**Note**: if your DOT is in a Ledger wallet, first transfer your DOT from Ledger wallet to a Substrate wallet (you can create a new Substrate wallet following one of these guides [here](https://wiki.acala.network/get-started/acala-network/acala-account/account-generation)), then follow the instructions on this page to bring the DOT to Acala.
