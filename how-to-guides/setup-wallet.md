@@ -1,14 +1,10 @@
 # Setup Wallet
 
-### Pre-requisite
+### Table of content
 
-1. Ethereum wallet e.g. [Metamask](https://metamask.io/) with an account not bound to any Polkadot/Substrate account
-2. Substrate Wallets e.g. [Polkadot{js}](https://polkadot.js.org/extension/), [Talisman](https://www.talisman.xyz/), [Subwallet](https://www.subwallet.app/) with an account not bound to any Ethereum account
-3. ACA in your Substrate Wallet to pay for transaction fees
-
-You can learn how to create a Substrate wallet by following any of these [guides](https://wiki.acala.network/get-started/acala-network/acala-account). You can learn how to send ACA to your Acala wallet by following this [guide.](https://wiki.acala.network/integrate/integration/token-transfer)
-
-You can learn how to create a MetaMask wallet by following this [guide](https://www.youtube.com/watch?v=GNPz-Dv5BjM).
+1. Ethereum wallet e.g. Metamask with an account not bound to any Polkadot/Substrate account.  ([Create a MetaMask Wallet](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask), [create an additional account in the Wallet](https://support.metamask.io/hc/en-us/articles/360015289452-How-to-create-an-additional-account-in-your-wallet))
+2. Substrate Wallets e.g. Polkadot{js}, Talisman, Subwallet with an account not bound to any Ethereum account. ([Create a Substrate Wallet](https://wiki.acala.network/get-started/acala-network/acala-account/account-generation))
+3. ACA in your Substrate Wallet to pay for transaction fees ([Fund Your Substrate Wallet](https://wiki.acala.network/integrate/integration/token-transfer))
 
 ### Set up a Unified Account
 
@@ -28,8 +24,11 @@ To setup&#x20;
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="319"><figcaption></figcaption></figure>
 
-4. Select a Substrate wallet with balance for fee, and click Bind to proceed - sign on Ethereum wallet
+4. Select a Substrate wallet with balance for fee, and click Bind to proceed - sign on Ethereum wallet. **Note: Binding cannot be undone once completed.**
 
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="326"><figcaption></figcaption></figure>
 
-5. Unified Account setup successfully, you can use the Ethereum wallet to sign transactions on Euphrates now.
+5.  Unified Account setup successfully, you can use the Ethereum wallet to sign transactions on Euphrates now.\
+
+
+    <figure><img src="../.gitbook/assets/Untitled (4).png" alt=""><figcaption></figcaption></figure>
