@@ -8,3 +8,5 @@ Euphrates provides boosted liquid staking for DOT holders:
 * staked DOT will automatically be turned into the LST of choice and start earning respective DOT staking rewards
 * earn additional rewards in ACA and participating project tokens
 * withdraw LST anytime to use in the ecosystem and earn more rewards
+
+[Euphrates App](https://farm.acala.network)
