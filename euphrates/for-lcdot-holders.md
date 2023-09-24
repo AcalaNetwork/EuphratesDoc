@@ -10,7 +10,7 @@ Euphrates provides a stake-and-forget service with extra rewards for LCDOT holde
 * claimed DOT will automatically be turned into LST of choice
 * do not miss a day of DOT staking rewards
 
-Users can also withdraw LCDOT to DOT, if choose not to participate in staking.
+Users can also withdraw LCDOT to DOT, if they choose not to participate in staking.
 
 Read the staking guide [here](../how-to-guides/use-euphrates/stake-lcdot.md)
 

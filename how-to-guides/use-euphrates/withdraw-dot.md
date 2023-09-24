@@ -4,7 +4,7 @@ description: WithdrawDOT
 
 # Withdraw DOT & Stake
 
-You can withdraw DOTs contributed to crowdloans that are expired, and stake them via Euphrates to earn DOT staking yield and boosted rewards. Below is a guide for withdraw and stake DOT.
+You can withdraw DOTs contributed to crowdloans that are expired, and stake them via Euphrates to earn DOT staking yield and boosted rewards. Below is a guide to withdraw and stake DOT.
 
 ### 1. **Withdraw DOT contributed to crowdloan via Polkadot{JS}**
 
