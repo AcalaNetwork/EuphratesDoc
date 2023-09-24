@@ -1,6 +1,10 @@
 # Setup Wallet
 
-### Table of content
+### Unified Account
+
+With the Unified Account system, users can use an Ethereum account to interact with contracts in EVM, Polkadot/Acala Substrate runtime, and a hybrid of these. Read more [here](setup-wallet.md#unified-account).
+
+### Pre-requisites
 
 1. Ethereum wallet e.g. Metamask with an account not bound to any Polkadot/Substrate account.  ([Create a MetaMask Wallet](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask), [create an additional account in the Wallet](https://support.metamask.io/hc/en-us/articles/360015289452-How-to-create-an-additional-account-in-your-wallet))
 2. Substrate Wallets e.g. Polkadot{js}, Talisman, Subwallet with an account not bound to any Ethereum account. ([Create a Substrate Wallet](https://wiki.acala.network/get-started/acala-network/acala-account/account-generation))
