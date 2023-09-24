@@ -2,7 +2,7 @@
 
 ### **Prerequisite:**
 
-Make sure you have set up a Unified Account, follow the guide [here](../setup-wallet.md).
+Make sure you have set up a Unified Account, follow the guide [here](../setup-wallet/).
 
 ### **Step-by-Step Guide**
 

@@ -11,7 +11,8 @@
 
 ## How-to Guides
 
-* [Setup Wallet](how-to-guides/setup-wallet.md)
+* [Setup Wallet](how-to-guides/setup-wallet/README.md)
+  * [Create a MetaMask Wallet](how-to-guides/setup-wallet/create-a-metamask-wallet.md)
 * [Use Euphrates](how-to-guides/use-euphrates/README.md)
   * [Stake LCDOT](how-to-guides/use-euphrates/stake-lcdot.md)
   * [Stake DOT](how-to-guides/use-euphrates/stake-dot.md)
