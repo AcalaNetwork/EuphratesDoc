@@ -1,5 +1,11 @@
 # Stake LCDOT
 
+### **Prerequisite:**
+
+Make sure you have set up a Unified Account, follow the guide [here](../setup-wallet.md).
+
+### **Step-by-Step Guide**
+
 1. Make sure you are on the Euphrates official site with LCDOT selected
 
 <figure><img src="../../.gitbook/assets/Revised.png" alt=""><figcaption></figcaption></figure>

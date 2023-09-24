@@ -1,5 +1,11 @@
 # Stake DOT
 
+### **Prerequisite:**
+
+Make sure you have set up a Unified Account, follow the guide [here](../setup-wallet.md).
+
+### **Step-by-Step Guide**
+
 1. Select “DOT” near the top of the homepage or make sure you are on the official Euphrates DOT staking page: https://farm.acala.network/dot
 
 <figure><img src="../../.gitbook/assets/DOT Page updated.png" alt=""><figcaption></figcaption></figure>

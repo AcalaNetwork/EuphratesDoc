@@ -12,4 +12,6 @@ Euphrates provides a stake-and-forget service with extra rewards for LCDOT holde
 
 Users can also withdraw LCDOT to DOT, if choose not to participate in staking.
 
-[Euphrates App](https://farm.acala.network)
+Read the staking guide [here](../how-to-guides/use-euphrates/stake-lcdot.md)
+
+Stake now on [Euphrates App](https://farm.acala.network)
