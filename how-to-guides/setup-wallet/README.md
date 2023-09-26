@@ -6,16 +6,16 @@ With the Unified Account system, users can use an Ethereum account to interact w
 
 ### Pre-requisites
 
-1. Ethereum wallet e.g. Metamask with an account not bound to any Polkadot/Substrate account.  ([Create a MetaMask Wallet](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask), [create an additional account in the Wallet](https://support.metamask.io/hc/en-us/articles/360015289452-How-to-create-an-additional-account-in-your-wallet))
-2. Substrate Wallets e.g. Polkadot{js}, Talisman, Subwallet with an account not bound to any Ethereum account. ([Create a Substrate Wallet](https://wiki.acala.network/get-started/acala-network/acala-account/account-generation))
+1. Ethereum wallet e.g. MetaMask with an account not bound to any Polkadot/Substrate account.  ([Create a MetaMask Wallet](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask), [create an additional account in the Wallet](https://support.metamask.io/hc/en-us/articles/360015289452-How-to-create-an-additional-account-in-your-wallet))
+2. Substrate Wallets e.g. SubWallet, Talisman, Polkadot{.js} with an account not bound to any Ethereum account. ([Create a Substrate Wallet](https://wiki.acala.network/get-started/acala-network/acala-account/account-generation))
 3. ACA in your Substrate Wallet to pay for transaction fees ([Fund Your Substrate Wallet](https://wiki.acala.network/integrate/integration/token-transfer))
 
 ### Set up a Unified Account
 
-To enable Unified Account and use Acala EVM+, you will
+To enable Unified Account and use Acala EVM+, follow these steps:
 
 1. Login with a supported Ethereum wallet e.g. MetaMask, Wallet Connect
-2. Login (once) with a Polkadot/Substrate wallet e.g. Polkadot{js}, Talisman, Subwallet
+2. Login (once) with a Polkadot/Substrate wallet e.g. SubWallet, Talisman, Polkadot{.js}
 3. Sign a transaction to bind the two accounts
 
 ### Step-by-Step Guide
@@ -34,7 +34,7 @@ To setup&#x20;
 4.  Confirm the selection by clicking “Connect”
 
     <figure><img src="../../.gitbook/assets/30.png" alt=""><figcaption></figcaption></figure>
-5.  If this is your first time interacting with the Acala Network you will be asked to add the network to your Metamask and switch to it. Click “Approve” then “Switch Network”
+5.  If this is your first time interacting with the Acala Network you will be asked to add the network to your MetaMask and switch to it. Click “Approve” then “Switch Network”
 
     <figure><img src="../../.gitbook/assets/31.png" alt=""><figcaption></figcaption></figure>
 
