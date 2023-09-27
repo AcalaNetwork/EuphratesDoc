@@ -44,13 +44,13 @@ To setup&#x20;
     <figure><img src="../../.gitbook/assets/32 (1).png" alt=""><figcaption></figcaption></figure>
 7.  Select the account you wish to connect and click “Connect”
 
-    <figure><img src="../../.gitbook/assets/33.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/33 (1).png" alt=""><figcaption></figcaption></figure>
 8.  Ensure you have the correct accounts and click “Bind”. **Binding is permanent and cannot be undone once completed.**
 
     <figure><img src="../../.gitbook/assets/34.png" alt=""><figcaption></figcaption></figure>
 9.  Sign the transaction on your Ethereum Wallet, then Approve the binding on your Substrate Wallet
 
-    <figure><img src="../../.gitbook/assets/35.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/35 (1).png" alt=""><figcaption></figcaption></figure>
 10. Congratulations, you have successfully unified your wallets 🎉
 
     <figure><img src="../../.gitbook/assets/Unified account.png" alt=""><figcaption></figcaption></figure>
