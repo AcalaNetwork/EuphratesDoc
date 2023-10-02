@@ -12,6 +12,7 @@
 ## How-to Guides
 
 * [Setup Wallet](how-to-guides/setup-wallet/README.md)
+  * [Do I have an Unified Account](how-to-guides/setup-wallet/do-i-have-an-unified-account.md)
   * [Create a MetaMask Wallet](how-to-guides/setup-wallet/create-a-metamask-wallet.md)
 * [Use Euphrates](how-to-guides/use-euphrates/README.md)
   * [Stake LCDOT](how-to-guides/use-euphrates/stake-lcdot.md)

@@ -6,7 +6,7 @@ With the Unified Account system, users can use an Ethereum account to interact w
 
 ### Pre-requisites
 
-1. Ethereum wallet e.g. Metamask with an account not bound to any Polkadot/Substrate account.  ([Create a MetaMask Wallet](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask), [create an additional account in the Wallet](https://support.metamask.io/hc/en-us/articles/360015289452-How-to-create-an-additional-account-in-your-wallet))
+1. Ethereum wallet e.g. MetaMask with an account not bound to any Polkadot/Substrate account. ([Create a MetaMask Wallet](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask), [create an additional account in the Wallet](https://support.metamask.io/hc/en-us/articles/360015289452-How-to-create-an-additional-account-in-your-wallet))
 2. Substrate Wallets e.g. Polkadot{js}, Talisman, Subwallet with an account not bound to any Ethereum account. ([Create a Substrate Wallet](https://wiki.acala.network/get-started/acala-network/acala-account/account-generation))
 3. ACA in your Substrate Wallet to pay for transaction fees ([Fund Your Substrate Wallet](https://wiki.acala.network/integrate/integration/token-transfer))
 
@@ -20,7 +20,7 @@ To enable Unified Account and use Acala EVM+, you will
 
 ### Step-by-Step Guide
 
-To setup&#x20;
+To setup
 
 1.  Go on the Euphrates App and click “Connect Wallet”
 
@@ -37,8 +37,6 @@ To setup&#x20;
 5.  If this is your first time interacting with the Acala Network you will be asked to add the network to your Metamask and switch to it. Click “Approve” then “Switch Network”
 
     <figure><img src="../../.gitbook/assets/31.png" alt=""><figcaption></figcaption></figure>
-
-
 6.  Select your Substrate Wallet
 
     <figure><img src="../../.gitbook/assets/32 (1).png" alt=""><figcaption></figcaption></figure>
