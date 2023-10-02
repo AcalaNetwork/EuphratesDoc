@@ -21,7 +21,7 @@
   * [Claim Rewards](how-to-guides/use-euphrates/claim-rewards.md)
   * [Unstake](how-to-guides/use-euphrates/unstake.md)
   * [Withdraw LCDOT](how-to-guides/use-euphrates/withdraw-lcdot.md)
-* [Get LCDOT/ACA](how-to-guides/get-lcdot-aca.md)
+* [Get LCDOT/ACA](how-to-guides/where-to-get-lcdot-aca.md)
 * [Integration](how-to-guides/integration.md)
 
 ## Other
@@ -33,3 +33,10 @@
   * [UpgradeableStakingLST](other/contracts/upgradeablestakinglst.md)
 * [Governance](other/governance.md)
 * [Audits](other/audits.md)
+
+## Links
+
+* [Euphrates DApp](https://farm.acala.network/)
+* [Github](https://github.com/AcalaNetwork/Euphrates)
+* [Discord](https://www.acala.gg/)
+* [Acala DApp](https://apps.acala.network/)
