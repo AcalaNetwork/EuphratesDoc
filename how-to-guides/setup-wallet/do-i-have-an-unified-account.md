@@ -9,3 +9,5 @@ At the Polkadot.js UI you can easily query Unified Account with a Substrate or E
 3. Go to Developer tab on top menu and select Chain State
 4. Select "EVM accounts" and "accounts(H160): Option\<AccountId32>"
 
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-29 at 12.43.54 PM.png" alt=""><figcaption></figcaption></figure>
+
