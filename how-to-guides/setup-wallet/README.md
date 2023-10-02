@@ -22,33 +22,42 @@ To enable Unified Account and use Acala EVM+, you will
 
 To setup
 
-1.  Go on the Euphrates App and click “Connect Wallet”
+1. Go on the Euphrates App and click “Connect Wallet”
 
-    <figure><img src="../../.gitbook/assets/Wallet Binding (1).png" alt=""><figcaption></figcaption></figure>
-2.  Click MetaMask or your Ethereum wallet of choice via Wallet Connect
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/28.png" alt=""><figcaption></figcaption></figure>
-3.  Select the account you wish to connect and click “Next”
+2. Click MetaMask or your Ethereum wallet of choice via Wallet Connect
 
-    <figure><img src="../../.gitbook/assets/29.png" alt=""><figcaption></figcaption></figure>
-4.  Confirm the selection by clicking “Connect”
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/30.png" alt=""><figcaption></figcaption></figure>
-5.  If this is your first time interacting with the Acala Network you will be asked to add the network to your Metamask and switch to it. Click “Approve” then “Switch Network”
+3. Select the account you wish to connect and click “Next”
 
-    <figure><img src="../../.gitbook/assets/31.png" alt=""><figcaption></figcaption></figure>
-6.  Select your Substrate Wallet
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/32 (1).png" alt=""><figcaption></figcaption></figure>
-7.  Select the account you wish to connect and click “Connect”
+4. Confirm the selection by clicking “Connect”
 
-    <figure><img src="../../.gitbook/assets/33 (1).png" alt=""><figcaption></figcaption></figure>
-8.  Ensure you have the correct accounts and click “Bind”. **Binding is permanent and cannot be undone once completed.**
+<figure><img src="../../.gitbook/assets/30.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/34.png" alt=""><figcaption></figcaption></figure>
-9.  Sign the transaction on your Ethereum Wallet, then Approve the binding on your Substrate Wallet
+5. If this is your first time interacting with the Acala Network you will be asked to add the network to your Metamask and switch to it. Click “Approve” then “Switch Network”
 
-    <figure><img src="../../.gitbook/assets/35 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+6. Select your Substrate Wallet
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+7. Select the account you wish to connect and click “Connect”
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+8. Ensure you have the correct accounts and click “Bind”. **Binding is permanent and cannot be undone once completed.**
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+9. Sign the transaction on your Ethereum Wallet, then Approve the binding on your Substrate Wallet
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 10. Congratulations, you have successfully unified your wallets 🎉
 
-    <figure><img src="../../.gitbook/assets/Unified account.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Unified account.png" alt=""><figcaption></figcaption></figure>
