@@ -21,7 +21,7 @@
   * [Claim Rewards](how-to-guides/use-euphrates/claim-rewards.md)
   * [Unstake](how-to-guides/use-euphrates/unstake.md)
   * [Withdraw LCDOT](how-to-guides/use-euphrates/withdraw-lcdot.md)
-* [Where to get LCDOT/ACA](how-to-guides/where-to-get-lcdot-aca.md)
+* [Get LCDOT/ACA](how-to-guides/get-lcdot-aca.md)
 * [Integration](how-to-guides/integration.md)
 
 ## Other
