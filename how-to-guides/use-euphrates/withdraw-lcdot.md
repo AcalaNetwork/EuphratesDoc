@@ -1,6 +1,6 @@
-# Withdraw LCDOT
+# Withdraw LCDOT to DOT
 
-
+Follow this guide to redeem LCDOT to DOT.&#x20;
 
 1. Make sure you are on the Euphrates official site: https://farm.acala.network/
 2.  Scroll down to the ‘How Euphrates Works’ section and click the highlighted ‘withdraw’ button
