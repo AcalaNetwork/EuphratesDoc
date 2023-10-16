@@ -1,8 +1,17 @@
-# Withdraw LCDOT to DOT
+---
+description: LCDOT
+---
 
-Follow this guide to withdraw LCDOT to DOT.&#x20;
+# Withdraw DOT from LCDOT
 
-1. Make sure you are on the Euphrates official site: https://farm.acala.network/
+Follow this guide to withdraw DOT from LCDOT.&#x20;
+
+Pre-requisite
+
+* Follow [this guide](../setup-wallet/) to set up a Unified Account
+* Ensure that you have transferrable LCDOT on your account e.g. NOT in LP or staked
+
+1. Make sure you are on the Euphrates official site: [https://farm.acala.network/](https://farm.acala.network/)
 2.  Scroll down to the ‘How Euphrates Works’ section and click the highlighted ‘withdraw’ button
 
     <figure><img src="../../.gitbook/assets/WithdrawtoDOT.png" alt=""><figcaption></figcaption></figure>

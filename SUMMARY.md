@@ -20,7 +20,7 @@
   * [Withdraw DOT & Stake](how-to-guides/use-euphrates/withdraw-dot.md)
   * [Claim Rewards](how-to-guides/use-euphrates/claim-rewards.md)
   * [Unstake](how-to-guides/use-euphrates/unstake.md)
-  * [Withdraw LCDOT to DOT](how-to-guides/use-euphrates/withdraw-lcdot.md)
+  * [Withdraw DOT from LCDOT](how-to-guides/use-euphrates/withdraw-lcdot.md)
 * [Get LCDOT/ACA](how-to-guides/where-to-get-lcdot-aca.md)
 * [Integration](how-to-guides/integration.md)
 
