@@ -2,7 +2,8 @@
 
 ### **Prerequisite:**
 
-Make sure you have set up a Unified Account, follow the guide [here](../setup-wallet/).
+1. You have set up a Unified Account, follow the guide [here](../setup-wallet/).
+2. You have bridged DOT to Acala network, follow the guide [here](withdraw-dot.md#2.-bridge-dot-to-acala).
 
 ### **Step-by-Step Guide**
 
