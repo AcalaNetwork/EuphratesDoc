@@ -2,7 +2,7 @@
 
 ### Unified Account
 
-With the Unified Account system, users can use an Ethereum account to interact with contracts in EVM, Polkadot/Acala Substrate runtime, and a hybrid of these. Read more [here](./#unified-account).
+With the Unified Account system, users can use an Ethereum account to interact with contracts in EVM, Polkadot/Acala Substrate runtime, and a hybrid of these. Euphrates will support Ethereum LST and pools and beyond, so with Unified Account, you set it up once, and can use it for cross-stack cross-chain interactions. Read more [here](./#unified-account).
 
 ### Pre-requisites
 
