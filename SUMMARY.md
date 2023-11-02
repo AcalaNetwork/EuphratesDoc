@@ -40,7 +40,4 @@
 * [Github](https://github.com/AcalaNetwork/Euphrates)
 * [Discord](https://www.acala.gg/)
 * [Acala DApp](https://apps.acala.network/)
-
-***
-
 * [Bug Bounty](https://immunefi.com/bounty/euphrates/)
