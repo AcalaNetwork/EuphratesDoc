@@ -38,7 +38,7 @@ To setup
 
 <figure><img src="../../.gitbook/assets/30.png" alt=""><figcaption></figcaption></figure>
 
-5. If this is your first time interacting with the Acala Network you will be asked to add the network to your Metamask and switch to it. Click “Approve” then “Switch Network”
+5. If this is your first time interacting with the Acala Network you will be asked to add the network to your Metamask and switch to it. Click “Approve” then “Switch Network”. To add network manually you can either follow steps [here](https://wiki.acala.network/build/development-guide/smart-contracts/get-started-evm/connect-to-a-node/use-metamask-with-evm+), or add via [ChainList](https://chainlist.org/?search=acala).
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
