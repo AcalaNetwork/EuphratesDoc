@@ -1,41 +1,120 @@
 # Integration
 
-### API
+## API
 
-#### Convert rate
+### Total DOT Locked
 
+Total LDOT and tDOT Locked in LSTs on Acala
+
+{% code overflow="wrap" %}
+```javascript
+Method: HTTP-GET
+URL: https://farm.acala.network/api/total_locked
 ```
-<https://farm.acala.network/api/convert_rate>
+{% endcode %}
+
+### TVL
+
+TVL of the LST pool
+
+```jsx
+Method: HTTP-GET
+URL: https://farm.acala.network/api/tvl
 ```
 
-#### tDOT apr
+### tDOT APR
 
-```
-<https://api.taigaprotocol.io/rewards/apr?network=acala&pool=0>
+```jsx
+Method: HTTP-GET
+URL: https://api.taigaprotocol.io/rewards/apr?network=acala&pool=0
 ```
 
-#### Pool apr graph
+### StellaSwap LP TVL
 
+```javascript
+Method: GraphQL
+URL: https://api.thegraph.com/subgraphs/name/stellaswap/pulsar
+
+Query:
+{
+  pool(id: "0x6bb200b706ffa1665127877a11588221c49d9eed") {
+    totalValueLockedUSD
+  }
+}
 ```
-<https://farm.acala.network/api/apr/{poolId}>
+
+### StellaSwap Trading fees APR
+
+```javascript
+Method: HTTP
+URL: https://apr-api.stellaswap.com/api/v1/poolsAPR/
+
+Find value of 0x6bb200b706ffa1665127877a11588221c49d9eed
+```
+
+### StellaSwap Farm APR
+
+```javascript
+Method: HTTP
+URL: https://apr-api.stellaswap.com/api/v1/poolsAPR/
+
+Find value of 0x6bb200b706ffa1665127877a11588221c49d9eed
+rewardTokenApr is ACA's APR
+bonusToken is STELLA's APR
+lastApr = rewardTokenApr + bonusToken
+```
+
+### Token Price
+
+```jsx
+Method: HTTP-GET
+URL: https://farm.acala.network/api/token_prices
+```
+
+### Pools Details
+
+LST pool details
+
+```jsx
+Method: HTTP-GET
+URL: https://farm.acala.network/api/pools/{poolId}
 ```
 
 **Parameters**
 
 The only required query parameter is `poolId`
 
-#### ACA and DOT price
+### Dapp Version
 
+Front-end version update prompt
+
+```jsx
+Method: HTTP-GET
+URL: https://farm.acala.network/api/version
 ```
-<https://api.coingecko.com/api/v3/simple/price?ids=polkadot,acala&vs_currencies=usd&precision=18>
+
+### Pool TVL History
+
+Historical TVL data of LST pool
+
+```jsx
+Method: HTTP-GET
+URL: https://farm.acala.network/api/tvl/{poolId}
 ```
 
-#### Search-related API
+**Parameters**
 
-**Query the user’s LCDOT balance in Acala**
+The only required query parameter is `poolId`
 
-```
-<https://acala.api.subscan.io/api/v2/scan/search>
+### LCDOT in Acala
+
+The user’s LCDOT balance in Acala
+
+```jsx
+Method: HTTP-POST
+URL: https://acala.api.subscan.io/api/v2/scan/search
+
+Find asset_registry/bfa7a23dc17bb490d4032c78cbc87babb4eb6f74 in response
 ```
 
 **Parameters**
@@ -48,10 +127,30 @@ The only required query parameter is `poolId`
 | value range ≥ 0 |        |                                       |
 | key             | string | filter by contributor address         |
 
-**Query the user’s contribution in polkadot.js**
+### LCDOT in Polkadot{.js}
 
-```
-<https://polkadot.api.subscan.io/api/scan/account/contributions>
+The user’s contribution in Polkadot{.js}
+
+```jsx
+Method: HTTP-POST
+URL: https://polkadot.api.subscan.io/api/scan/account/contributions
+
+Find para_id in response
+para_id: {
+	'2000': 'Acala',
+	'2002': 'Clover',
+	'2004': 'Moonbeam',
+	'2006': 'Astar',
+	'2012': 'Parallel',
+	'2030': 'Bifrost',
+	'2031': 'Centrifuge',
+	'2035': 'Phala Network',
+	'2021': 'Efinity',
+	'2019': 'Composable Finance',
+	'2032': 'Interlay',
+	'2026': 'Nodle',
+	'2034': 'HydraDX',
+}
 ```
 
 **Parameters**
@@ -64,14 +163,18 @@ The only required query parameter is `poolId`
 | value range ≥ 0 |        |                                       |
 | who             | string | filter by contributor address         |
 
-**Query the user’s cDOT balance in parallel**
+### **LCDOT in Parallel**
 
-* cDOT-6/13 200060013
-* cDOT-7-14 200070014
-* cDOT-8/15 200080015
+The user’s cDOT balance in Parallel
 
 ```jsx
-<https://polkadot.api.subscan.io/api/scan/multiChain/account>
+Method: HTTP-POST
+URL: https://polkadot.api.subscan.io/api/scan/multiChain/account
+
+Find LCDOT in response
+- cDOT-6/13 200060013
+- cDOT-7-14 200070014
+- cDOT-8/15 200080015
 ```
 
 **Parameters**
@@ -80,12 +183,13 @@ The only required query parameter is `poolId`
 | --------- | ------ | ----------------------------- |
 | address   | string | filter by contributor address |
 
-### Subquery
+## Subquery
 
-#### LDOT APY
+### LDOT APR
 
-```
-<https://api.polkawallet.io/acala-liquid-staking-subql>
+```jsx
+Method: HTTP-POST
+URL: https://api.polkawallet.io/acala-liquid-staking-subql
 
 Examples:
 {
@@ -98,53 +202,13 @@ Examples:
     }
   }
 }
-```
 
-#### LCDOT, LDOT, TDOT, WTDOT price
+Calculation: 
+const exchangeRates = result.query.dailySummaries.nodes;
 
-```
-<https://api.polkawallet.io/acala-dex-subql>
+const first = exchangeRates[0];
+const last = exchangeRates[exchangeRates.length - 1];
+const len = exchangeRates.length;
 
-Examples:
-query {
-  swaps(orderBy: TIMESTAMP_DESC, first: 1, filter: { poolId: { equalTo: "lp://DOT/lc%3A%2F%2F13" } }) {
-    nodes {
-      poolId
-      token0Id
-      token1Id
-      token0InAmount
-      token1OutAmount
-      timestamp
-      id
-    }
-  }
-
-  stableAssetSwaps(orderBy: TIMESTAMP_DESC, first: 1, filter: { poolId: { equalTo: 0 } }) {
-    nodes {
-      price
-      timestamp
-      id
-      poolId
-    }
-  }
-}
-```
-
-price calculation:
-
-```jsx
-// result equals the result returned by subquery
-base = result.swaps.nodes[0].token0Id === 'DOT'
-	? result.swaps.nodes[0].token0InAmount
-	: result.swaps.nodes[0].token1OutAmount;
-target = result.swaps.nodes[0].token0Id === 'DOT'
-	? result.swaps.nodes[0].token1OutAmount
-	: result.swaps.nodes[0].token0InAmount
-
-// dotPrice = [ACA and DOT price](<https://www.notion.so/Integration-2e437289d2a34c24bd729b7d11c16a1f?pvs=21>)
-LDOT_Price = dotPrice / (target / base)
-LCDOT_Price = dotPrice / result.stableAssetSwaps.nodes[0].price
-TDOT_Price = dotPrice
-WTDOT_Price = dotPrice
-
+const apr = (first.exchangeRate / last.exchangeRate - 1) * (365 / len);
 ```
