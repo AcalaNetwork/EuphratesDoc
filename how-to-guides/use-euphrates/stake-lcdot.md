@@ -22,8 +22,8 @@ Make sure you have set up a Unified Account, follow the guide [here](../setup-wa
 
 6.  A confirmation transaction will show up on your Metamask (If this is your first time interacting with Euphrates an approval request will show up first). Confirm the transaction.
 
-    <figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
 7.  You can verify your stake on the “Current Stake’ section. Happy staking 😊
 
-    <figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 

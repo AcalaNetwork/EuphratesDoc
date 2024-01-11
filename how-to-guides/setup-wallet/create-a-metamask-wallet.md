@@ -2,7 +2,7 @@
 
 **Creating a MetaMask Wallet (Chrome Browser)**
 
-1. Visit[https://metamask.io](https://metamask.io) and click “Download”
+1. Visit [https://metamask.io](https://metamask.io) and click “Download”
 2. Click “Install MetaMask for Chrome”
 3. Click “Add to Chrome” to download the extension
 4. Agree to the ToU and click “Create a new wallet”
