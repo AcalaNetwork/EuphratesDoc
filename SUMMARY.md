@@ -12,7 +12,7 @@
 ## How-to Guides
 
 * [Setup Wallet](how-to-guides/setup-wallet/README.md)
-  * [Check Unified Account Status](how-to-guides/setup-wallet/check-unified-account-status.md)
+  * [Check Unified Account Status](how-to-guides/setup-wallet/do-i-have-an-unified-account.md)
   * [Create a MetaMask Wallet](how-to-guides/setup-wallet/create-a-metamask-wallet.md)
   * [Funding Your Unified Account](how-to-guides/setup-wallet/funding-your-unified-account/README.md)
     * [Via Polkadot Visual Guide](how-to-guides/setup-wallet/funding-your-unified-account/via-polkadot-visual-guide.md)
