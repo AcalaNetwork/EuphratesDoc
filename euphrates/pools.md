@@ -9,7 +9,12 @@ In Euphrates, LCDOT holders have the option to stake their tokens in the tDOT po
 * Before Acala Crowdloan Unlocks: LCDOT is staked into the pool, and users start receiving rewards immediately
 * Upon Crowdloan Unlock: LCDOT is automatically claimed into DOT and then used to mint tDOT to start earning DOT staking yield, protocol fees, and additional rewards in ACA and TAI.
 
-In Euphrates, DOT holders can stake DOT into the tDOT pool where DOT will be minted into tDOT to earn staking yield, protocol fees, and additional rewards in ACA and TAI.
+In Euphrates, DOT holders can stake DOT into the tDOT pool where DOT will be minted into tDOT to earn staking yield, protocol fees, wrapped (into wtDOT for DeFi interoperability) and deposit into Euphrates tDOT pool for additional rewards in ACA and TAI.
+
+The unstake process consists of two steps:
+
+1\. Unstaking from Euphrates tDOT pool as wtDOT\
+2\. Unwrapping into the final tDOT
 
 ### LDOT Pool
 
