@@ -211,4 +211,6 @@ const last = exchangeRates[exchangeRates.length - 1];
 const len = exchangeRates.length;
 
 const apr = (first.exchangeRate / last.exchangeRate - 1) * (365 / len);
+// you can also calculate apy
+const apy = apr + (first.exchangeRate / last.exchangeRate - 1)
 ```
