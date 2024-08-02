@@ -14,7 +14,7 @@ This can be done through the permissionless `crowdloan.refund` extrinsic availab
 
 Read more [here](https://wiki.polkadot.network/docs/learn-crowdloans#withdraw-crowdloaned-tokens)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. **Bridge DOT to Acala**
 
@@ -24,7 +24,7 @@ Keep Polkadot as the `Origin Chain` and select Acala as the `Destination Chain`.
 
 For Ledger users, please check compatibility [here](https://github.com/Zondax/ledger-acala) before sending funds to a Ledger account
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.2 Return to the Portfolio tab to see your transferred DOT balance.
 

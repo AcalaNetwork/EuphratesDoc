@@ -1,8 +1,19 @@
+---
+description: Unstaking your assets on Euphrates
+---
+
 # Unstake
 
-For LCDOT pools, you can unstake anytime after lease ends. Follow the guide below to unstake
+The unstaking process for a single-sided staking pool generally follows the same procedure. Below, we provide an example of unstaking from the LCDOT pool with steps that can be applied to any single-sided staking pool.
 
-**Pre-Requisite** [Setup Wallet](../setup-wallet/)
+The difference lies in state the token is received in after unstaking:
+
+* For **LCDOT staking**, you will receive **LDOT (on Acala)** after unstaking.
+* For **DOT staking**, you will receive **LDOT (on Acala)** after unstaking.
+* For **JitoSOL staking**, you will receive **JitoSOL (on AcalaEVM)** after unstaking.
+
+**Pre-Requisite** Polkadot or Acala based tokens require a unified account for the full experience. AcalaEVM tokens do not need a unified account but is encoruage to create one to unlock all current and future possibilities. \
+[Setup a Unified Account](https://www.notion.so/o/-M\_OLwcDFbYSOX9rQ5hU/s/VQGEivDEmJ3zsYnfc80H/\~/changes/62/how-to-guides/setup-wallet)
 
 Steps:
 
