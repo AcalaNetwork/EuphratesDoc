@@ -4,18 +4,11 @@ Euphrates rewards are made of incentive rewards in ACA and participating project
 
 * tDOT APR ([App](https://www.taigaprotocol.io/), [Protocol](https://docs.taigaprotocol.io/overview/introduction))
 * LDOT APR ([App](https://apps.acala.network/ldot), [Protocol](https://docs.homastaking.app/))
+* JitoSOL APR ([App](https://www.jito.network/), [Protocol](https://www.jito.network/docs/jitosol/introduction-to-jito/))
 
 ## LCDOT Staking Rewards
 
 There are two staking pools for LCDOT holders: LDOT and tDOT Pools
-
-**Before unlock (aka before Acala crowdloan unlocks)**
-
-LDOT Pool APR = ACA incentive APR
-
-tDOT Pool APR = ACA incentive APR + TAI incentive APR
-
-**After unlock (aka Acala crowdloan unlocks)**
 
 LDOT Pool APR = ACA incentive APR + LDOT APR
 
@@ -28,6 +21,12 @@ There are two staking pools for DOT holders: LDOT and tDOT Pools
 LDOT Pool APR = ACA incentive APR + LDOT APR
 
 tDOT Pool APR = ACA incentive APR + TAI incentive APR + tDOT APR
+
+## JitoSOL Staking Rewards
+
+There is one staking pool for JitoSOL holders.
+
+JitoSOL Pool APR = ACA incentive APR + JitoSOL APR + JTO incentive APR
 
 ## Incentive Rewards
 

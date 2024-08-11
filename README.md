@@ -1,12 +1,19 @@
 # Introduction
 
-The purpose of this documentation is to provide general information for users of Euphrates, and guides for anyone involved in software development of Euphrates.
+This documentation provides general information for users of Euphrates and guides for anyone involved in the software development of Euphrates.
 
-Euphrates allows stakers and liquidity providers of LSTs (liquid staking tokens) to earn boosted rewards in ACA as well as participating project tokens with minimum effort.
+Platform Overview
 
-V1 accepts LCDOT and DOT deposits for DOT-based LST (LST derivatives) pools such as tDOT, LDOT etc. V2 will support tapETH and ETH deposits for ETH-based LSTs.
+Euphrates is a platform that allows stakers and liquidity providers of Liquid Staking Tokens (LSTs) to earn boosted rewards in ACA, as well as tokens from participating projects, with minimal effort.
 
-Euphrates has no token of its own.
+Version Updates
+
+* Current Version (V2): Euphrates V2 supports deposits from a broader range of Proof-of-Stake (PoS) blockchains, including JitoSOL from Solana, rETH from Ethereum, and more to come.
+* Previous Version (V1): Euphrates V1 only accepted LCDOT and DOT deposits for DOT-based LST (Liquid Staking Token) derivatives pools, such as tDOT and LDOT.
+
+Token Information
+
+Euphrates does not have its own token.
 
 [Euphrates App](https://farm.acala.network)
 

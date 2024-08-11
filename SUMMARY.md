@@ -3,11 +3,12 @@
 ## Euphrates
 
 * [Introduction](README.md)
-* [For LCDOT Holders](euphrates/for-lcdot-holders.md)
-* [For DOT Holders](euphrates/for-dot-holders.md)
 * [Pools](euphrates/pools.md)
 * [Rewards](euphrates/rewards.md)
 * [Unified Account](euphrates/unified-account.md)
+* [For LCDOT Holders](euphrates/for-lcdot-holders.md)
+* [For DOT Holders](euphrates/for-dot-holders.md)
+* [For JitoSOL Holders](euphrates/for-jitosol-holders.md)
 
 ## How-to Guides
 
@@ -33,7 +34,6 @@
   * [Claim Rewards](how-to-guides/use-euphrates/claim-rewards.md)
   * [Unstake](how-to-guides/use-euphrates/unstake.md)
   * [Withdraw DOT from LCDOT](how-to-guides/use-euphrates/withdraw-lcdot.md)
-  * [Risks and Disclaimer Notice](how-to-guides/use-euphrates/risks-and-disclaimer-notice.md)
 * [Get LCDOT/ACA](how-to-guides/where-to-get-lcdot-aca.md)
 * [Integration](how-to-guides/integration.md)
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # For LCDOT Holders
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-07 at 11.52.38 AM.png" alt=""><figcaption></figcaption></figure>
