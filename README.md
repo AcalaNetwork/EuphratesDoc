@@ -17,6 +17,6 @@ Euphrates does not have its own token.
 
 [Euphrates App](https://farm.acala.network)
 
-[Discord](https://www.acala.gg/)
+[Discord](https://discord.gg/5JJgXKSznc)
 
 [Twitter](https://twitter.com/AcalaNetwork)
