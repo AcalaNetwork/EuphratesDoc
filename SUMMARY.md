@@ -51,6 +51,6 @@
 
 * [Euphrates DApp](https://farm.acala.network/)
 * [Github](https://github.com/AcalaNetwork/Euphrates)
-* [Discord](https://www.acala.gg/)
+* [Discord](https://discord.gg/5JJgXKSznc)
 * [Acala DApp](https://apps.acala.network/)
 * [Bug Bounty](https://immunefi.com/bounty/euphrates/)
