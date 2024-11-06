@@ -9,6 +9,7 @@
 * [For LCDOT Holders](euphrates/for-lcdot-holders.md)
 * [For DOT Holders](euphrates/for-dot-holders.md)
 * [For JitoSOL Holders](euphrates/for-jitosol-holders.md)
+* [Glossary](euphrates/glossary.md)
 
 ## How-to Guides
 
