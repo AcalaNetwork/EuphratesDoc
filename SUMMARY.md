@@ -30,6 +30,7 @@
   * [Stake LCDOT](how-to-guides/use-euphrates/stake-lcdot.md)
   * [Stake DOT](how-to-guides/use-euphrates/stake-dot.md)
   * [Stake JitoSOL](how-to-guides/use-euphrates/stake-jitosol.md)
+  * [Bootstrapping LP](how-to-guides/use-euphrates/bootstrapping-lp.md)
   * [Withdraw DOT & Stake](how-to-guides/use-euphrates/withdraw-dot.md)
   * [Claim Rewards](how-to-guides/use-euphrates/claim-rewards.md)
   * [Unstake](how-to-guides/use-euphrates/unstake.md)
