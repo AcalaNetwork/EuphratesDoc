@@ -14,7 +14,7 @@ If you currently hold JitoSOL, you may skip to Step 4.
 2.  Enter the amount of SOL you wish to stake and click “Convert to JitoSOL”.
 
     <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
-3. Go to [https://farm.acala.network/](https://farm.acala.network/ldot)[pool/6](https://farm.acala.network/pool/6).
+3. Go to[ https://farm.acala.network/pool/6](https://farm.acala.network/pool/6).
 
 <figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
