@@ -10,7 +10,7 @@ description: Sending funds to your EVM wallet via Acala Network
 
 2. Scroll down to the ASSET section and find your DOT holdings
 
-<figure><img src="../../../.gitbook/assets/7 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/7 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the “Transfer” button
 
@@ -18,7 +18,7 @@ description: Sending funds to your EVM wallet via Acala Network
 
 4. Copy your Ethereum wallet address and paste it into the Recipient box.
 
-<figure><img src="../../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>
 
 Your wallet address can be found within your wallet or on [Euphrates](https://farm.acala.network/) by clicking on your wallet address on the top right corner followed by the copy icon.
 

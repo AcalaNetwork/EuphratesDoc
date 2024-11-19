@@ -10,13 +10,13 @@ If you currently hold JitoSOL, you may skip to Step 4.
 
 1.  Go to [https://www.jito.network/staking/](https://www.jito.network/staking/) and connect your Solana wallet.
 
-    <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 2.  Enter the amount of SOL you wish to stake and click “Convert to JitoSOL”.
 
-    <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 3. Go to[ https://farm.acala.network/pool/6](https://farm.acala.network/pool/6).
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Connect your Metamask or EVM wallet to Euphrates platform.
 
@@ -30,7 +30,7 @@ If you currently hold JitoSOL, you may skip to Step 4.
     <figure><img src="../../.gitbook/assets/Submit transaction.png" alt=""><figcaption></figcaption></figure>
 7.  Wait for the Bridge + Stake process to complete. You may move off of the screen once the “submit transaction” portion is complete.
 
-    <figure><img src="../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/7 (1) (1).png" alt=""><figcaption></figcaption></figure>
 8.  Once complete, you may scroll down to the bottom of the page to monitor current stake and see your accrued rewards
 
-    <figure><img src="../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/8 (1) (1).png" alt=""><figcaption></figcaption></figure>

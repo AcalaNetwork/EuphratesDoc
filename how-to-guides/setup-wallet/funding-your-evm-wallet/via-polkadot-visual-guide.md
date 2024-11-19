@@ -28,6 +28,6 @@ Your wallet address can be found within your wallet or on [Euphrates](https://fa
 
 5. Enter the amount of DOT you wish to transfer and click Transfer
 
-<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5 (2).png" alt=""><figcaption></figcaption></figure>
 
 6. Sign the transaction and wait for confirmation. Your DOT will update on Euphrates.

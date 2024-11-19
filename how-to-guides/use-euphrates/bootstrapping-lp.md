@@ -8,7 +8,7 @@ description: >-
 
 ## **Bootstrapping Panel**
 
-<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Status of the pool (currently in boostrapping stage).
 2. Liquidity Target is an amount of tokens that is required for the pool to be launched. This is 1 of the two criteria.&#x20;
@@ -18,7 +18,7 @@ description: >-
 
 ## Bootstrapping Page
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Switch to asset on Acala Network.
 2. Switch to Solana Bridging Page.
